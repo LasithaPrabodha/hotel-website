@@ -99,7 +99,7 @@
   }
 
   .room-details {
-    flex-basis: 40%;
+    flex-basis: 30%;
     padding: 60px 0px 30px 60px;
   }
 
@@ -258,6 +258,6 @@
 
   .our-location .content,
   .interior-design .content {
-    padding: 150px 60px;
+    padding: 170px 60px;
   }
 }
