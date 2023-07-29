@@ -253,11 +253,11 @@
   }
   .interior-design .image img,
   .our-location .map img {
-    height: 50vh;
+    height: 70vh;
   }
 
   .our-location .content,
   .interior-design .content {
-    padding: 80px 60px;
+    padding: 150px 60px;
   }
 }
