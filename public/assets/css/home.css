@@ -1,0 +1,247 @@
+.top-section {
+  color: #222222;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.top-section .heading-title {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.1em;
+  text-align: center;
+}
+
+.top-section .heading-text {
+  text-align: center;
+  padding: 16px 0;
+}
+
+/* Rooms section */
+.rooms {
+  background-color: #0f172b;
+}
+
+.room-details {
+  padding: 60px 40px 30px;
+  color: #ffffff;
+}
+
+.room-details .room-name {
+  font-size: 26px;
+}
+
+.room-price {
+  margin-top: 20px;
+}
+
+.room-price .label {
+  font-size: 16px;
+}
+
+.room-price .value {
+  font-size: 32px;
+}
+
+.room-properties {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.room-properties .label {
+  font-weight: 700;
+}
+
+.room-properties p {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-weight: 300;
+}
+
+.view-details {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.view-details .link {
+  border: 2px solid #ffffff;
+  padding: 10px 50px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.room-image {
+  line-height: 0;
+}
+
+.room-image img {
+  width: 100%;
+  height: 62vh;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .room {
+    display: flex;
+  }
+
+  .room-details {
+    flex-basis: 40%;
+    padding: 60px 50px 30px;
+  }
+
+  .room-properties .property {
+    display: flex;
+  }
+
+  .room-image {
+    flex: 1;
+  }
+
+  .room-image img {
+    height: 100%;
+  }
+  .room-properties .property .label {
+    flex-basis: 40%;
+  }
+  .room-properties .property .value {
+    flex: 1;
+  }
+}
+
+/* Why choose section */
+.why-kingsbury {
+  margin-top: 75px;
+  margin-bottom: 60px;
+}
+
+.why-kingsbury > h2 {
+  color: #222222;
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.why-kingsbury .reasons {
+  display: flex;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+.reasons .reason {
+  display: flex;
+}
+
+.reasons .reason .image {
+  padding-top: 12px;
+  flex-basis: 30%;
+  text-align: center;
+}
+.reasons .reason .content {
+  flex: 1;
+  line-height: 2;
+}
+
+.reasons .image img {
+  width: 60%;
+  opacity: 50%;
+}
+
+.reasons .content h5 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.reasons .content p {
+  padding: 16px 0;
+}
+
+@media (min-width: 426px) and (max-width: 767px) {
+  .reasons .image img {
+    width: 80px;
+  }
+}
+
+@media (min-width: 768px) {
+  .reasons {
+    flex-direction: row;
+  }
+  .reasons .reason {
+    flex: 1;
+  }
+}
+
+@media (min-width: 1024px) {
+  .reasons .image img {
+    width: 50%;
+  }
+}
+
+/* Interior Design */
+.our-location,
+.interior-design {
+  background-color: #0f172b;
+  color: #ffffff;
+}
+.our-location .content,
+.interior-design .content {
+  padding: 60px 40px;
+}
+.our-location .content h1,
+.interior-design .content h1 {
+  font-size: 30px;
+  font-weight: 500;
+}
+.our-location .content p,
+.interior-design .content p {
+  font-size: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.our-location .content .link,
+.interior-design .content .link {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.our-location .content .link a,
+.interior-design .content .link a {
+  text-decoration: none;
+  color: #ffc107;
+}
+.our-location .map,
+.interior-design .image {
+  line-height: 0;
+}
+.interior-design .image img,
+.our-location .map img {
+  height: 40vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .interior-design,
+  .our-location {
+    display: flex;
+  }
+
+  .interior-design .content,
+  .our-location .content {
+    width: calc(50% - 100px);
+  }
+
+  .interior-design .image,
+  .our-location .map {
+    width: 50%;
+  }
+  .interior-design .image img,
+  .our-location .map img {
+    height: 50vh;
+  }
+
+  .our-location .content,
+  .interior-design .content {
+    padding: 80px 50px;
+  }
+}
