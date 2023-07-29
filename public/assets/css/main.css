@@ -138,6 +138,9 @@ footer .copyright p {
 }
 
 @media (min-width: 768px) {
+  .navigation {
+    padding: 4px 100px;
+  }
   .upper-footer {
     display: flex;
     padding: 30px 90px;
@@ -146,10 +149,6 @@ footer .copyright p {
   footer .book-apartment,
   footer .about {
     flex: 1;
-  }
-
-  footer .about {
-    padding-right: 80px;
   }
 
   footer .book-apartment > *,
@@ -170,5 +169,6 @@ footer .copyright p {
   footer .about .logo-wrapper p {
     text-align: left !important;
     font-size: 22px;
+    padding-right: 80px;
   }
 }
