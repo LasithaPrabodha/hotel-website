@@ -1,7 +1,7 @@
 .top-section {
   color: #222222;
   padding: 80px 50px;
-  height: calc(100vh - 250px);
+  min-height: calc(100vh - 775px);
   display: flex;
   flex-direction: column;
   justify-content: center;
