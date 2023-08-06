@@ -42,10 +42,14 @@ body {
 }
 
 .navigation nav a {
-  padding: 0 10px;
+  margin: 0 10px;
   text-decoration: none;
-  color: #222222; 
+  color: #222222;
   font-size: 14px;
+}
+
+.navigation nav a.active {
+  border-bottom: 1px solid;
 }
 
 .page-container {
