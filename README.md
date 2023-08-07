@@ -6,6 +6,8 @@ wnr20230627
 
 Welcome to our Web Design Final Project! This document provides an overview of our project, features, and instructions for setting it up and running.
 
+![Alt Text](Sample.png)
+
 [Link to the website](https://kingsbury-toronto-website.web.app)
 
 ## Project Overview
