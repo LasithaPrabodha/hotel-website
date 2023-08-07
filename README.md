@@ -22,9 +22,9 @@ Our web design project focuses on creating a modern, mobile-first and user-frien
 
 Our project includes the following pages:
 
-1. Home Page by [Lasitha](mailto:l_weligampolagedar@fanshaweonline.ca)
+1. Home Page by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca)
 
-2. About Us Page by [Lasitha](mailto:l_weligampolagedar@fanshaweonline.ca)
+2. About Us Page by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca)
 
 3. Apartment Listings by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca)
 
@@ -54,6 +54,6 @@ Follow these steps to set up and run our web design project:
 
 ## Contact Us
 
-- Lasitha: l_weligampolagedar@fanshaweonline.ca
+- Lasitha: l_weligampolagedara@fanshaweonline.ca
 - Srenezaa: s_parasharamatam@fanshaweonline.ca
 - Manushi: M_wijayagunawardana@fanshaweonline.ca
