@@ -6,6 +6,8 @@ wnr20230627
 
 Welcome to our Web Design Final Project! This document provides an overview of our project, features, and instructions for setting it up and running.
 
+[Link to the website](https://kingsbury-toronto-website.web.app)
+
 ## Project Overview
 
 Our web design project aims to create for **an appartment in Toronto**. Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto. Our team consists of the following members:
@@ -53,6 +55,3 @@ Follow these steps to set up and run our web design project:
 - Lasitha: l_weligampolagedar@fanshaweonline.ca
 - Sreneza: s_parasharamatam@fanshaweonline.ca
 - Manushi: M_wijayagunawardana@fanshaweonline.ca
-
-
-[Link to the website](https://kingsbury-toronto-website.web.app)
