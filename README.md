@@ -4,7 +4,7 @@ wnr20230627
 [![Deploy to Firebase Hosting](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml)
 
 
-Welcome to our Web Design Final Project! This document provides an overview of our project, features, and instructions for setting it up and running.
+Welcome to our Web Design Final Project! This document provides an overview of our project, pages, and instructions for setting it up and running.
 
 ![Alt Text](Sample.png)
 
@@ -18,7 +18,7 @@ Our web design project focuses on creating a modern, mobile-first and user-frien
 - Srenezaa Parasharamatam
 - Manushi Wijayagunawardana
 
-## Features
+## Pages
 
 Our project includes the following pages:
 
