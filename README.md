@@ -12,7 +12,7 @@ Welcome to our Web Design Final Project! This document provides an overview of o
 
 ## Project Overview
 
-Our web design project aims to create for **an appartment in Toronto**. Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto. Our team consists of the following members:
+Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto. Our team consists of the following members:
 
 - Lasitha Weligampola Gedara
 - Srenezaa Parasharamatam
