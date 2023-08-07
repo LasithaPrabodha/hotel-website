@@ -95,11 +95,7 @@
   .top-section .heading-title {
     font-size: 60px;
   }
-
-  .rooms {
-    /* margin-left: calc((50vw - 1440px) / 2); */
-    width: 100%;
-  }
+ 
   .room {
     display: flex;
   }
