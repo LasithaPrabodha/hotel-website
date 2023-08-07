@@ -15,7 +15,7 @@ Welcome to our Web Design Final Project! This document provides an overview of o
 Our web design project aims to create for **an appartment in Toronto**. Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto. Our team consists of the following members:
 
 - Lasitha Weligampola Gedara
-- Sreneza Parasharamatam
+- Srenezaa Parasharamatam
 - Manushi Wijayagunawardana
 
 ## Features
@@ -30,7 +30,7 @@ Our project includes the following pages:
 
 4. Blog page by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca)
 
-5. Location Page (Explore Toronto page) by [Sreneza](mailto:s_parasharamatam@fanshaweonline.ca)
+5. Location Page (Explore Toronto page) by [Srenezaa](mailto:s_parasharamatam@fanshaweonline.ca)
 
 6. Contact Us Page by [Sreneza](mailto:s_parasharamatam@fanshaweonline.ca)
 
@@ -55,5 +55,5 @@ Follow these steps to set up and run our web design project:
 ## Contact Us
 
 - Lasitha: l_weligampolagedar@fanshaweonline.ca
-- Sreneza: s_parasharamatam@fanshaweonline.ca
+- Srenezaa: s_parasharamatam@fanshaweonline.ca
 - Manushi: M_wijayagunawardana@fanshaweonline.ca
