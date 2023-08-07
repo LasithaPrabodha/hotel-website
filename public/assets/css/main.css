@@ -57,6 +57,7 @@ body {
 }
 
 footer {
+  padding: 0 30px;
   padding-top: 40px;
 }
 
@@ -147,7 +148,13 @@ footer .copyright p {
   }
   .upper-footer {
     display: flex;
-    padding: 30px 90px;
+    padding: 30px 0px;
+  }
+
+  footer {
+    max-width: 1425px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   footer .book-apartment,

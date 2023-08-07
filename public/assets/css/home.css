@@ -1,6 +1,6 @@
 .top-section {
   color: #222222;
-  padding: 80px 50px;
+  padding: 80px 25px;
   min-height: calc(100vh - 775px);
   display: flex;
   flex-direction: column;
@@ -88,12 +88,18 @@
     height: unset;
     padding-left: 100px;
     padding-bottom: 100px;
+    max-width: 1425px;
+    margin: auto;
   }
 
   .top-section .heading-title {
     font-size: 60px;
   }
 
+  .rooms {
+    /* margin-left: calc((50vw - 1440px) / 2); */
+    width: 100%;
+  }
   .room {
     display: flex;
   }
@@ -183,9 +189,11 @@
   .reasons .reason {
     flex: 1;
   }
-  .why-kingsbury .reasons {
-    padding: 0 60px;
-  }
+  .why-kingsbury {
+    max-width: 1425px;
+    margin-left: auto;
+    margin-right: auto;
+  } 
 }
 
 @media (min-width: 1024px) {
