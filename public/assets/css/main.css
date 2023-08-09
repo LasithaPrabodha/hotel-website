@@ -10,8 +10,7 @@
 }
 
 body {
-  font-family: "Jost", sans-serif;
-  padding-top: 100px;
+  font-family: "Jost", sans-serif; 
 }
 
 .full-width {
@@ -133,6 +132,7 @@ body {
 
 .page-container {
   padding: 0 30px;
+  margin-top: 100px;
 }
 .top-section .heading-title {
   width: fit-content;
