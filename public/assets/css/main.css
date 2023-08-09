@@ -23,7 +23,7 @@ body {
 }
 
 .navigation {
-  display: flex;
+  display: block;
   padding: 4px 30px;
   position: fixed;
   top: 0;
@@ -39,6 +39,9 @@ body {
 .navigation nav {
   padding: 35px 0;
   padding-left: 35px;
+
+  display: flex;
+  flex-direction: column;
 }
 
 .navigation nav a {
@@ -52,10 +55,88 @@ body {
   border-bottom: 1px solid;
 }
 
+.navigation input[type="checkbox"] {
+  display: none;
+}
+
+.navigation label {
+  text-align: right;
+  display: block;
+  padding: 0.5em;
+  line-height: 1.6em;
+  position: relative;
+  float: right;
+  right: 40px;
+  top: 6px;
+}
+
+.navigation input[type="checkbox"]:not(:checked) + nav {
+  display: none;
+}
+
+.navigation .logo {
+  display: inline-block;
+}
+
+.navigation .menu {
+  width: fit-content;
+  float: right;
+  position: relative;
+  right: 48px;
+}
+
+/*
+ *  hamburger
+ */
+.navigation label span {
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+
+  background: #cdcdcd;
+  border-radius: 3px;
+
+  z-index: 1;
+
+  transform-origin: 4px 0px;
+
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+    opacity 0.55s ease;
+}
+
+.navigation label span:first-child {
+  transform-origin: 0% 0%;
+}
+
+.navigation label span:last-child {
+  transform-origin: 0% 100%;
+}
+
+/* 
+  * Transform all the slices of hamburger
+  * into a crossmark.
+  */
+.navigation label:has(~ input:checked) span {
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #232323;
+}
+
+.navigation label:has(~ input:checked) span:nth-child(2) {
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+.navigation label:has(~ input:checked) span:last-child {
+  transform: rotate(-45deg) translate(-2px, 0px);
+}
+
 .page-container {
   padding: 0 30px;
 }
-.top-section .heading-title { 
+.top-section .heading-title {
   width: fit-content;
   background: aliceblue;
   padding: 0 10px;
@@ -186,5 +267,16 @@ footer .copyright p {
     text-align: left !important;
     font-size: 22px;
     padding-right: 80px;
+  }
+  .navigation nav {
+    display: block !important;
+  }
+
+  .navigation {
+    display: flex !important;
+  }
+
+  .navigation label {
+    display: none !important;
   }
 }
