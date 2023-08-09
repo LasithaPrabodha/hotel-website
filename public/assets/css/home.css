@@ -95,7 +95,7 @@
   .top-section .heading-title {
     font-size: 60px;
   }
- 
+
   .room {
     display: flex;
   }
@@ -189,7 +189,7 @@
     max-width: 1425px;
     margin-left: auto;
     margin-right: auto;
-  } 
+  }
 }
 
 @media (min-width: 1024px) {
@@ -238,6 +238,8 @@
   height: 40vh;
   width: 100%;
   object-fit: cover;
+  filter: saturate(0.5);
+  object-position: center;
 }
 
 @media (min-width: 768px) {
@@ -257,7 +259,7 @@
   }
   .interior-design .image img,
   .our-location .map img {
-    height: 60vh;
+    height: 100%;
   }
 
   .our-location .content,

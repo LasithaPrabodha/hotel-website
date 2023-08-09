@@ -55,6 +55,11 @@ body {
 .page-container {
   padding: 0 30px;
 }
+.top-section .heading-title { 
+  width: fit-content;
+  background: aliceblue;
+  padding: 0 10px;
+}
 
 footer {
   padding: 0 30px;
