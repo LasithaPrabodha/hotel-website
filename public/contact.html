@@ -3,7 +3,26 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Contact The Kingsbury Luxury Toronto Apartment</title>
+    <meta
+      name="description"
+      content="Contact The Kingsbury Luxury Toronto Apartment for inquiries, reservations, and information about our central location."
+    />
+    <meta
+      name="keywords"
+      content="contact, Kingsbury, Luxury Toronto Apartment, central location, address, phone, email"
+    />
+    <meta name="author" content="The Kingsbury Luxury Toronto Apartment" />
+
+    <meta property="og:title" content="Contact Us - The Kingsbury Luxury Toronto Apartment" />
+    <meta
+      property="og:description"
+      content="Contact The Kingsbury Luxury Toronto Apartment for inquiries, bookings, and more. Reach out to us and experience unparalleled urban living."
+    />
+    <meta property="og:image" content="https://kingsbury-toronto-website.web.app/assets/images/home/logo.png" />
+    <meta property="og:url" content="https://kingsbury-toronto-website.web.app/contact.html" />
+    <meta property="og:type" content="website" />
+
+    <title>Contact Us - The Kingsbury Luxury Toronto Apartment</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -12,7 +31,7 @@
   <body>
     <header class="navigation">
       <div class="logo">
-        <img src="assets/images/home/logo.png" alt="logo of the hotel" />
+        <img src="assets/images/home/logo.png" alt="The Kingsbury Luxury Toronto Apartment logo" />
       </div>
       <label for="menu" tabindex="0">
         <span></span>
@@ -36,7 +55,7 @@
           <h1>Located in center of Toronto city</h1>
         </div>
         <div class="heading-text">
-          <p>Unwind the clock of modern life. Unlock the door to a wonder of the world.</p>
+          <p>Reach out to us with your questions or requests. We're here to assist you!</p>
         </div>
       </section>
 
@@ -62,36 +81,35 @@
             <h1>Do you have any wishes or questions?</h1>
             <div class="form-field">
               <label for="inpName">Name *</label>
-              <input type="text" id="inpName" required />
+              <input type="text" id="inpName" required aria-required="true" tabindex="1" />
             </div>
             <div class="form-field">
               <label for="inpEmail">Email *</label>
-              <input type="email" id="inpEmail" required />
+              <input type="email" id="inpEmail" required aria-required="true" tabindex="2" />
             </div>
             <div class="form-field">
               <label for="inpPhone">Phone</label>
-              <input type="tel" id="inpPhone" />
+              <input type="tel" id="inpPhone" tabindex="3" />
             </div>
             <div class="form-field message">
               <label for="txtMsg">Your Message *</label>
-              <textarea rows="10" id="txtMsg" required></textarea>
+              <textarea rows="10" id="txtMsg" required aria-required="true" tabindex="4"></textarea>
             </div>
             <div class="form-field checkbox">
-              <input type="checkbox" id="terms" class="checkbox" required />
+              <input type="checkbox" id="terms" class="checkbox" required aria-required="true" tabindex="5" />
               <label for="terms"> I consent to Kingsbury Hotel collecting my details through this form. </label>
             </div>
 
             <div class="link">
-              <button type="submit">Send</button>
+              <button type="submit" tabindex="6">Send</button>
             </div>
           </form>
 
           <div class="address">
-            <p><strong>Kingsbury Toronto Hotel</strong></p>
+            <p><strong>Kingsbury Toronto Apartment</strong></p>
             <p>108 Chestnut St, Toronto, ON, M5G1R3</p>
-            <p>TEL: +1 (416) 368-2511</p>
-            <p>TEL: +1 (416) 368-2511</p>
-            <p>res@kingsburytoronto.ca</p>
+            <p>TEL: <a href="tel:+14163682511" tabindex="7">+1 (416) 368-2511</a></p>
+            <p>EMAIL: <a href="mailto:res@kingsburytoronto.ca" tabindex="8">res@kingsburytoronto.ca</a></p>
           </div>
         </section>
       </div>
@@ -102,7 +120,7 @@
           <h2>About Kingsbury</h2>
           <div class="logo-wrapper">
             <div class="logo">
-              <img src="assets/images/home/logo.png" alt="logo of the hotel" />
+              <img src="assets/images/home/logo.png" alt="The Kingsbury Luxury Toronto Apartment logo" />
             </div>
 
             <p>“We work with organisations to craft immersive customer experiences.”</p>
@@ -118,7 +136,7 @@
             </p>
 
             <div class="link">
-              <a href="#">Book Now</a>
+              <a href="contact.html">Book Now</a>
             </div>
           </div>
         </section>

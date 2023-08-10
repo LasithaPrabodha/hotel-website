@@ -13,16 +13,9 @@
 .main-container {
   padding-top: 0 !important;
 }
-
-/* .about-us::before {
-  filter: blur(1px);
-  content: ' ';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-} */
+.page-container {
+  margin-top: 0 !important;
+}
 
 .about-us {
   color: #222222;
@@ -80,7 +73,7 @@
   position: relative;
 }
 
-.finest .images #imgreception {
+.finest .images #imgcondo {
   width: 55%;
   height: 32vh;
   position: absolute;
@@ -89,7 +82,7 @@
   object-fit: cover;
   object-position: center;
 }
-.finest .images #imglobbyseats {
+.finest .images #imgcondo2 {
   top: 50px;
   right: 0px;
   width: 62%;
@@ -148,8 +141,8 @@
     margin-right: 0;
   }
 
-  .finest .images #imglobbyseats,
-  .finest .images #imgreception {
+  .finest .images #imgcondo2,
+  .finest .images #imgcondo {
     height: 60vh;
     width: 53%;
   }

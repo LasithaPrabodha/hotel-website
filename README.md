@@ -22,17 +22,63 @@ Our web design project focuses on creating a modern, mobile-first and user-frien
 
 Our project includes the following pages:
 
-1. Home Page by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca)
+1. **Home Page (home.html) by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca):**
+   The home page of "The Kingsbury Luxury Toronto Apartment" website. It features a stunning visual design with a focus on luxury and elegance. The page includes a prominent logo, a captivating heading, and a tagline. It showcases a studio apartment with its details and pricing. It also highlights key features of the apartments, such as stunning interior design and convenient location. The page uses a combination of images and text to engage visitors.
 
-2. About Us Page by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca)
+2. **About Us Page (about-us.html) by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca):**
+   The "About Us" page provides information about the hotel's philosophy and values. It describes the organization's focus on crafting immersive customer experiences. The page includes the hotel's logo and a description of its approach to design and customer satisfaction.
 
-3. Apartment Listings by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca)
+3. **Apartments Page (apartments.html) by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca):**
+   The "Apartments" page displays different types of apartments available for booking. It features a selection of studio apartments with images, pricing, bed configuration, room size, view, and recommendations. Each apartment has a "View More" link for additional details. The page is designed to showcase the variety of accommodation options and their amenities.
 
-4. Blog page by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca)
+4. **Blog Page (blog.html)  by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca):**
+   The "Blog" page is the space where the hotel can share articles, updates, or insights related to luxury living, design, and travel. 
 
-5. Location Page (Explore Toronto page) by [Srenezaa](mailto:s_parasharamatam@fanshaweonline.ca)
+5. **Neighborhood/Explore Page (explore.html) by [Srenezaa](mailto:s_parasharamatam@fanshaweonline.ca):**
+   The "Explore" or "Neighborhood" page is dedicated to showcasing the surrounding area and attractions near the hotel. It includes a heading introducing Toronto and its highlights. The content emphasizes the convenience of the hotel's location and provides reasons why visitors should choose this property for their stay. The page also features images and descriptions of downtown Toronto and its landmarks.
 
-6. Contact Us Page by [Sreneza](mailto:s_parasharamatam@fanshaweonline.ca)
+6. **Contact Us Page (contact.html) by [Srenezaa](mailto:s_parasharamatam@fanshaweonline.ca):**
+   The "Contact Us" page features a contact form for users to submit inquiries. It requests the user's name, email, phone number, and message. A checkbox for consent is included, along with the hotel's address, phone numbers, and email. The form encourages users to engage with the hotel and provides various methods of contact.
+
+**Design Principles:**
+
+1. **Proximity:** Elements that are related are grouped together, like navigation links and their corresponding labels. For example, the navigation menu items are positioned close to the logo, making it clear they are part of the same navigation section.
+
+2. **Contrast:** Text and images have appropriate contrast, making the content easy to read and understand. High contrast is used for text against its background, ensuring readability.
+
+3. **Typography:** Consistent fonts and font sizes are used for headings and content. Font styles are chosen to match the luxurious and modern theme of the website.
+
+4. **Whitespace:** Adequate whitespace is used to separate content elements, providing a clean and organized layout. The spacing around text and images prevents crowding and improves readability.
+
+**Accessibility Compliance:**
+
+The following strategies were used to improve accessibility compliance:
+
+1. **Alternative Text:** Images include descriptive `alt` attributes, providing text alternatives for visually impaired users.
+
+2. **Semantic HTML:** Semantic HTML elements like headings (`<h1>`, `<h2>`) are used properly to convey the document structure, making it easier for screen readers to interpret the content.
+
+3. **Keyboard Navigation:** All interactive elements, such as navigation links and form fields, are accessible via keyboard navigation. The use of `<label>` elements is associated with form fields to improve form accessibility.
+
+4. **Color Contrast:** High contrast between text and background is maintained to ensure readability, especially for users with low vision.
+
+**Search Engine Optimization (SEO):**
+
+The following SEO strategies were used:
+
+1. **Page Titles:** Each page has a unique and descriptive title, indicating the page's content and relevance to user queries.
+
+2. **Meta Descriptions:** Meta descriptions are used to provide concise and informative summaries of each page's content. This can entice users to click on search results.
+
+3. **Meta Keywords:** While less impactful than in the past, some pages include relevant meta keywords that relate to the content of the page.
+
+4. **URL Structure:** The URLs are clean and descriptive, incorporating relevant keywords where appropriate.
+
+5. **Heading Structure:** Proper use of heading tags (`<h1>`, `<h2>`, etc.) creates a hierarchy that helps search engines understand the importance and context of the content.
+
+6. **Image Optimization:** Images use descriptive filenames and alt text, which can contribute to image search optimization and accessibility.
+
+7. **Internal Links:** The use of internal links helps users and search engines navigate between related content.
 
 ## Installation and Setup
 
