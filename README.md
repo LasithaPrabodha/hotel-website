@@ -106,6 +106,8 @@ Follow these steps to set up and run our web design project:
 
 ## References
 
+- https://www.thekingsburyhotel.com
+
 - https://www.greatdays.co.uk/wp-content/uploads/Toronto-Ontario-Canada-Aerial-view-of-Torontos-skyline-and-the-Financial-District-with-Lake-Ontario-and-Toronto-Islands-2254-%C2%A9Destination-Toronto-EXPIRES-18.10.2023-e1666100900253.jpg
 
 - https://www.decorilla.com/online-decorating/studio-apartment-decor/
