@@ -106,18 +106,18 @@ Follow these steps to set up and run our web design project:
 
 ## References
 
-- https://www.thekingsburyhotel.com
+- Colombo Hotels | The Kingsbury Hotel Colombo Official Site - https://www.thekingsburyhotel.com
 
-- https://www.greatdays.co.uk/wp-content/uploads/Toronto-Ontario-Canada-Aerial-view-of-Torontos-skyline-and-the-Financial-District-with-Lake-Ontario-and-Toronto-Islands-2254-%C2%A9Destination-Toronto-EXPIRES-18.10.2023-e1666100900253.jpg
+- Canada: The Maple Leaf Trail - North America - Greatdays Group Travel - https://www.greatdays.co.uk/tour/maple-leaf-trail/
 
-- https://www.decorilla.com/online-decorating/studio-apartment-decor/
+- Best Studio Apartment Decor Ideas to Maximize Space - Decorilla - https://www.decorilla.com/online-decorating/studio-apartment-decor/
 
-- https://www.hopedesigns.ca/interior-decorating/condo-decorating/
+- Condo Decorating Toronto | Condo Staging | Interior Decorating - https://www.hopedesigns.ca/interior-decorating/condo-decorating/
 
-- https://www.melaniejadedesign.com/condo-interior-design/
+- Condo Interior Design: How to Find Condos with Picture Perfect Interiors - Melanie Jade Design - https://www.melaniejadedesign.com/condo-interior-design/
 
-- https://www.home-designing.com/4-small-studio-interior-designs-that-give-little-places-a-lift
+- 4 Small Studio Interior Designs That Give Little Places A Lift - https://www.home-designing.com/4-small-studio-interior-designs-that-give-little-places-a-lift
 
-- https://www.hauseit.com/alcove-studio/
+- What Exactly Is an Alcove Studio in NYC? | Hauseit® - https://www.hauseit.com/alcove-studio/
 
-- https://www.bhg.com/loft-decor-ideas-6752495
+- 13 Loft Decor Ideas for Every Design Style - https://www.bhg.com/loft-decor-ideas-6752495
