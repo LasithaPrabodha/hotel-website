@@ -103,3 +103,19 @@ Follow these steps to set up and run our web design project:
 - Lasitha: l_weligampolagedara@fanshaweonline.ca
 - Srenezaa: s_parasharamatam@fanshaweonline.ca
 - Manushi: M_wijayagunawardana@fanshaweonline.ca
+
+## References
+
+- https://www.greatdays.co.uk/wp-content/uploads/Toronto-Ontario-Canada-Aerial-view-of-Torontos-skyline-and-the-Financial-District-with-Lake-Ontario-and-Toronto-Islands-2254-%C2%A9Destination-Toronto-EXPIRES-18.10.2023-e1666100900253.jpg
+
+- https://www.decorilla.com/online-decorating/studio-apartment-decor/
+
+- https://www.hopedesigns.ca/interior-decorating/condo-decorating/
+
+- https://www.melaniejadedesign.com/condo-interior-design/
+
+- https://www.home-designing.com/4-small-studio-interior-designs-that-give-little-places-a-lift
+
+- https://www.hauseit.com/alcove-studio/
+
+- https://www.bhg.com/loft-decor-ideas-6752495
