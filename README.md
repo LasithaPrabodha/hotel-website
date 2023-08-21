@@ -1,5 +1,6 @@
 # Web Design Final Project
 wnr20230627
+WNR project received 20230820
 
 [![Deploy to Firebase Hosting](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml)
 
