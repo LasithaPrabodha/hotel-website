@@ -1,5 +1,6 @@
 # Web Design Final Project
 wnr20230627
+WNR project received 20230820
 
 [![Deploy to Firebase Hosting](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml)
 
@@ -103,3 +104,21 @@ Follow these steps to set up and run our web design project:
 - Lasitha: l_weligampolagedara@fanshaweonline.ca
 - Srenezaa: s_parasharamatam@fanshaweonline.ca
 - Manushi: M_wijayagunawardana@fanshaweonline.ca
+
+## References
+
+- Colombo Hotels | The Kingsbury Hotel Colombo Official Site - https://www.thekingsburyhotel.com
+
+- Canada: The Maple Leaf Trail - North America - Greatdays Group Travel - https://www.greatdays.co.uk/tour/maple-leaf-trail/
+
+- Best Studio Apartment Decor Ideas to Maximize Space - Decorilla - https://www.decorilla.com/online-decorating/studio-apartment-decor/
+
+- Condo Decorating Toronto | Condo Staging | Interior Decorating - https://www.hopedesigns.ca/interior-decorating/condo-decorating/
+
+- Condo Interior Design: How to Find Condos with Picture Perfect Interiors - Melanie Jade Design - https://www.melaniejadedesign.com/condo-interior-design/
+
+- 4 Small Studio Interior Designs That Give Little Places A Lift - https://www.home-designing.com/4-small-studio-interior-designs-that-give-little-places-a-lift
+
+- What Exactly Is an Alcove Studio in NYC? | Hauseit® - https://www.hauseit.com/alcove-studio/
+
+- 13 Loft Decor Ideas for Every Design Style - https://www.bhg.com/loft-decor-ideas-6752495
