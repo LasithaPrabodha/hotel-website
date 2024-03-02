@@ -1,44 +1,33 @@
 # Web Design Final Project
-wnr20230627
-WNR project received 20230820
-
-[![Deploy to Firebase Hosting](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/lweligampolagedara/webdesign-project/actions/workflows/firebase-hosting-merge.yml)
-
 
 Welcome to our Web Design Final Project! This document provides an overview of our project, pages, and instructions for setting it up and running.
 
 ![Home page](Sample.png)
 
-[Link to the website](https://kingsbury-toronto-website.web.app)
-
 ## Project Overview
 
-Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto. Our team consists of the following members:
-
-- Lasitha Weligampola Gedara
-- Srenezaa Parasharamatam
-- Manushi Wijayagunawardana
+Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto.
 
 ## Pages
 
 Our project includes the following pages:
 
-1. **Home Page (home.html) by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca):**
+1. **Home Page (home.html):**
    The home page of "The Kingsbury Luxury Toronto Apartment" website. It features a stunning visual design with a focus on luxury and elegance. The page includes a prominent logo, a captivating heading, and a tagline. It showcases a studio apartment with its details and pricing. It also highlights key features of the apartments, such as stunning interior design and convenient location. The page uses a combination of images and text to engage visitors.
 
-2. **About Us Page (about-us.html) by [Lasitha](mailto:l_weligampolagedara@fanshaweonline.ca):**
+2. **About Us Page (about-us.html):**
    The "About Us" page provides information about the hotel's philosophy and values. It describes the organization's focus on crafting immersive customer experiences. The page includes the hotel's logo and a description of its approach to design and customer satisfaction.
 
-3. **Apartments Page (apartments.html) by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca):**
+3. **Apartments Page (apartments.html):**
    The "Apartments" page displays different types of apartments available for booking. It features a selection of studio apartments with images, pricing, bed configuration, room size, view, and recommendations. Each apartment has a "View More" link for additional details. The page is designed to showcase the variety of accommodation options and their amenities.
 
-4. **Blog Page (blog.html)  by [Manushi](mailto:M_wijayagunawardana@fanshaweonline.ca):**
+4. **Blog Page (blog.html):**
    The "Blog" page is the space where the hotel can share articles, updates, or insights related to luxury living, design, and travel. 
 
-5. **Neighborhood/Explore Page (explore.html) by [Srenezaa](mailto:s_parasharamatam@fanshaweonline.ca):**
+5. **Neighborhood/Explore Page (explore.html):**
    The "Explore" or "Neighborhood" page is dedicated to showcasing the surrounding area and attractions near the hotel. It includes a heading introducing Toronto and its highlights. The content emphasizes the convenience of the hotel's location and provides reasons why visitors should choose this property for their stay. The page also features images and descriptions of downtown Toronto and its landmarks.
 
-6. **Contact Us Page (contact.html) by [Srenezaa](mailto:s_parasharamatam@fanshaweonline.ca):**
+6. **Contact Us Page (contact.html):**
    The "Contact Us" page features a contact form for users to submit inquiries. It requests the user's name, email, phone number, and message. A checkbox for consent is included, along with the hotel's address, phone numbers, and email. The form encourages users to engage with the hotel and provides various methods of contact.
 
 **Design Principles:**
@@ -98,12 +87,6 @@ Follow these steps to set up and run our web design project:
    ```
 
 3. **Open Index.html**: Open the `public/index.html` file in your preferred web browser to view the project.
-
-## Contact Us
-
-- Lasitha: l_weligampolagedara@fanshaweonline.ca
-- Srenezaa: s_parasharamatam@fanshaweonline.ca
-- Manushi: M_wijayagunawardana@fanshaweonline.ca
 
 ## References
 
