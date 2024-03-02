@@ -77,7 +77,7 @@ Follow these steps to set up and run our web design project:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    
    ```
-   git clone https://github.com/lweligampolagedara/webdesign-project.git
+   git clone https://github.com/LasithaPrabodha/hotel-website.git 
    ```
 
 2. **Navigate to Project Directory**: Use the terminal to navigate into the project directory:
