@@ -83,7 +83,7 @@ Follow these steps to set up and run our web design project:
 2. **Navigate to Project Directory**: Use the terminal to navigate into the project directory:
 
    ```
-   cd webdesign-project
+   cd hotel-website
    ```
 
 3. **Open Index.html**: Open the `public/index.html` file in your preferred web browser to view the project.
