@@ -1,16 +1,14 @@
 # Web Design Final Project
 
-Welcome to our Web Design Final Project! This document provides an overview of our project, pages, and instructions for setting it up and running.
-
 ![Home page](Sample.png)
 
 ## Project Overview
 
-Our web design project focuses on creating a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto.
+This is a modern, mobile-first and user-friendly website for a luxurious apartment in Toronto.
 
 ## Pages
 
-Our project includes the following pages:
+This project includes the following pages:
 
 1. **Home Page (home.html):**
    The home page of "The Kingsbury Luxury Toronto Apartment" website. It features a stunning visual design with a focus on luxury and elegance. The page includes a prominent logo, a captivating heading, and a tagline. It showcases a studio apartment with its details and pricing. It also highlights key features of the apartments, such as stunning interior design and convenient location. The page uses a combination of images and text to engage visitors.
@@ -72,7 +70,7 @@ The following SEO strategies were used:
 
 ## Installation and Setup
 
-Follow these steps to set up and run our web design project:
+Follow these steps to set up and run  web design project:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    
